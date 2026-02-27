@@ -1,6 +1,14 @@
-## Edit ~/.config/fastfetch/config.jsonc
+## Edit `~/.config/fastfetch/config.jsonc`
+```bash
 nvim ~/.config/fastfetch/config.jsonc
-**Change logo source directory** - change it where skull.txt is located.
-<img width="944" height="168" alt="image" src="https://github.com/user-attachments/assets/a1a35042-0d11-4085-a429-7b53fb4b22ee" />
+```
+
+> **Change logo source directory** — update the path to wherever `skull.txt` is located.
+
+![Fastfetch config](https://github.com/user-attachments/assets/a1a35042-0d11-4085-a429-7b53fb4b22ee)
+
 ## Result of fastfetch
-<img width="946" height="606" alt="image" src="https://github.com/user-attachments/assets/4b91e308-a154-40ac-afe7-d8613f1f4642" />
+
+![Fastfetch result](https://github.com/user-attachments/assets/4b91e308-a154-40ac-afe7-d8613f1f4642)
+
+> **Create your own ASCII art** — Upload your own image and convert it to ASCII at [asciiart.eu/image-to-ascii](https://www.asciiart.eu/image-to-ascii)
